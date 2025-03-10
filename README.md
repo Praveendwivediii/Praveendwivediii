@@ -1,5 +1,4 @@
 <h1 align="center">𝑇𝑎𝑡𝑎𝑘𝑎𝑒</h1>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prvngotnochill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prvngotnochill" height="30" width="40" /></a>
