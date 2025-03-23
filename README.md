@@ -1,3 +1,4 @@
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <!--h1 align="center">𝑇𝑎𝑡𝑎𝑘𝑎𝑒</h1-->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&width=435&lines=Aspiring+Data+Scientist+%26+Developer;Passionate+about+AI%2C+ML%2C+Web+Dev;Always+learning+new+things!">
