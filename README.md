@@ -1,8 +1,9 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<!--![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)-->
 <!--h1 align="center">𝑇𝑎𝑡𝑎𝑘𝑎𝑒</h1-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&width=435&lines=Aspiring+Data+Scientist+%26+Developer;Passionate+about+AI%2C+ML%2C+Web+Dev;Always+learning+new+things!">
+  <img src="https://raw.githubusercontent.com/Praveendwivediii/Praveendwivediii/5eafe7beab3f0fa80be219ed5398eb4ad1b83d39/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.gif" alt="MasterHead">
 </p>
+
 
 ---
 
