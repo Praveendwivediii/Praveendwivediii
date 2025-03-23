@@ -84,7 +84,10 @@ Aspiring **Data Scientist** & **Developer** passionate about **AI, Machine Learn
   </a>
 </p>
 
+---
+
 ## 📈 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=praveendwivediii&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br>
@@ -92,5 +95,5 @@ Aspiring **Data Scientist** & **Developer** passionate about **AI, Machine Learn
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praveendwivediii&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
----
-⭐ **Let's connect and collaborate on exciting projects!** 🚀
+
+⭐🚀 **Let's connect and collaborate on exciting projects!** 
