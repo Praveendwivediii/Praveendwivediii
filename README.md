@@ -98,7 +98,7 @@ I'm a **code-slinging, data-wrangling, algorithm-loving** tech enthusiast with a
 
 ---
 
-### **Let's turn coffee ☕ into code 💻.**  
+## **Let's turn coffee☕ into code💻**  
 **Hit me up!** 🚀  
 
 <p align="center">
