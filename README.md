@@ -1,19 +1,22 @@
+<!--![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)-->
+<!--h1 align="center">𝑇𝑎𝑡𝑎𝑘𝑎𝑒</h1-->
+
 <p align="center">
+
   <img src="https://raw.githubusercontent.com/Praveendwivediii/Praveendwivediii/5eafe7beab3f0fa80be219ed5398eb4ad1b83d39/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.gif" alt="MasterHead">
 </p>
 
----
 
-<h2 align="center">🚀 About Me</h2>
-
-Aspiring **Data Scientist** & **Developer** passionate about **AI, Machine Learning, Data Analysis, and Web Development**.  
-I love solving challenging problems, building impactful projects, and continuously expanding my skills.  
 
 ---
 
-<h2 align="center">🌎 Find Me Here</h2>
+## 🚀 About Me  
+Aspiring **Data Scientist** & **Developer** passionate about **AI, Machine Learning, Data Analysis, and Web Development**. I love solving challenging problems, building impactful projects, and continuously expanding my skills.  
 
-<p>
+---
+
+## 🌎 Find Me Here  
+<p align="left">
   <a href="https://www.leetcode.com/praveendwivedi" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
@@ -30,9 +33,8 @@ I love solving challenging problems, building impactful projects, and continuous
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p>
+## 🛠️Tech Stack 
+<p align="left">
   <!-- Programming Languages -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -89,7 +91,7 @@ I love solving challenging problems, building impactful projects, and continuous
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+## 📈 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=praveendwivediii&show_icons=true&theme=dark" alt="GitHub Stats" />
@@ -99,4 +101,4 @@ I love solving challenging problems, building impactful projects, and continuous
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praveendwivediii&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<h4 align="center">⭐🚀 Let's connect and collaborate on exciting projects!</h4>
+⭐🚀 **Let's connect and collaborate on exciting projects!** 
