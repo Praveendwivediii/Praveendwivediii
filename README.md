@@ -69,13 +69,23 @@ I'm a **code-slinging, data-wrangling, algorithm-loving** tech enthusiast with a
 ## 📊 **GitHub Stats & Trophies**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveendwivediii&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- GitHub Stats - Dark background with light elements -->
+  <img src="https://github-readme-stats.vercel.app/api?username=praveendwivediii&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" />
+  
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveendwivediii&theme=radical" alt="GitHub Streak" />
+  
+  <!-- GitHub Streak Stats - Dark background with light elements -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveendwivediii&theme=dark&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praveendwivediii&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  
+  <!-- Top Languages - Dark background with light elements -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praveendwivediii&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=58a6ff&border_color=30363d" alt="Top Languages" />
+  
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=praveendwivediii&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  
+  <!-- GitHub Trophies - Dark background with light elements -->
+  <img src="https://github-profile-trophy.vercel.app/?username=praveendwivediii&theme=dark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&title=FFFFFF&text=FFFFFF&color=58a6ff" alt="GitHub Trophies" />
 </p>
 
 ---
