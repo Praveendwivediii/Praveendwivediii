@@ -17,6 +17,9 @@ I'm a **code-slinging, data-wrangling, algorithm-loving** tech enthusiast with a
 ## 🌐 **Let's Connect**  
 <!--[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/praveendwivedi)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/praveendwivedii)
+
+<!-- hello Instagram -->
+
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/praveendwivedii)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/prvngotnochill)-->
 
@@ -27,6 +30,9 @@ I'm a **code-slinging, data-wrangling, algorithm-loving** tech enthusiast with a
   <a href="https://linkedin.com/in/praveendwivedii" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+
+<a href="https://instagram.com/pr.a.v.een" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pr.a.v.een" height="30" width="40" /></a>
+
   <a href="https://kaggle.com/praveendwivedii" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
