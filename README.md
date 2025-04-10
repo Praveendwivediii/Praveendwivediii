@@ -7,8 +7,11 @@
 
 ---
 
-## 🔥 **About Me**  
-I'm a **code-slinging, data-wrangling, algorithm-loving** tech enthusiast with a passion for turning raw data into **insights** and **solutions**. Whether it's building **AI models**, crafting **scalable web apps**, or solving **LeetCode challenges**, I thrive on challenges that push boundaries.  
+## 🔥 **About Me**
+
+I'm a **code-slinging, data-wrangling, algorithm-loving** tech enthusiast who lives for the thrill of solving problems and making systems smarter. From crafting **AI models** that predict the future, to developing **web apps** that scale with ease — I bring data and code together like coffee and late-night hustle.  
+Whether I’m untangling messy datasets, building something cool in JavaScript, or pushing commits at 2 AM, I’m always chasing that "aha!" moment. 
+ 
 
 <!--**Fun Fact:** I once trained a model to predict stock prices—it thought Bitcoin would hit $1M. Still waiting... 🤖📈-->
 
