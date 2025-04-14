@@ -1,12 +1,11 @@
 # 🚀 Praveen Dwivedi  
 ### **Data Analyst | AI Enthusiast | Frontend Developer**  
 
-<p align="center">
+<!--<p align="center">
   <img src="https://raw.githubusercontent.com/Praveendwivediii/Praveendwivediii/5eafe7beab3f0fa80be219ed5398eb4ad1b83d39/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.gif" alt="MasterHead">
-</p>
+</p> -->
 
 ---
-
 ## 🔥 **About Me**
 
 I'm a **code-slinging, data-wrangling, algorithm-loving** tech enthusiast who lives for the thrill of solving problems and making systems smarter. From crafting **AI models** that predict the future, to developing **web apps** that scale with ease, I bring data and code together like coffee and late-night hustle.  
