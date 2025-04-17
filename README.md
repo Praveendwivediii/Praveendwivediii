@@ -99,3 +99,14 @@ I'm a **code-slinging, data-wrangling, algorithm-loving** tech enthusiast who li
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=while(true)+%7B+code%2C+learn%2C+repeat+%7D" alt="Typing SVG" />
 </p>
+
+
+
+---
+
+## Google Cloud Badges
+
+- [Introduction to Generative AI](https://www.cloudskillsboost.google/...)  
+- [Digital Transformation with Google Cloud](https://www.cloudskillsboost.google/...)  
+- [Introduction to Responsible AI](https://www.cloudskillsboost.google/...)  
+- [Introduction to Large Language Models](https://www.cloudskillsboost.google/...)
