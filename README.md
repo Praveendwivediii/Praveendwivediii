@@ -9,8 +9,6 @@
 ## 🔥 **About Me**
 
 I'm a **code-slinging, data-wrangling, algorithm-loving** tech enthusiast who lives for the thrill of solving problems and making systems smarter. From crafting **AI models** that predict the future, to developing **web apps** that scale with ease, I bring data and code together like coffee and late-night hustle.  
-Whether it's building with **TensorFlow**, wrangling **big data**, or experimenting with **Generative AI**, I'm all about that "aha!" moment.
-
 ---
 
 ## ⚙️ **Tech Stack**
