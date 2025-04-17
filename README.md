@@ -60,7 +60,7 @@ Whether it's building with **TensorFlow**, wrangling **big data**, or experiment
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveendwivediii&layout=compact&theme=dark" />
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=praveendwivediii&theme=dark&row=1&column=7" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=praveendwivediii&theme=dark&row=1&column=7"/> -->
 </p>
 
 ---
