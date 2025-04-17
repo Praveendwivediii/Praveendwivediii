@@ -72,6 +72,7 @@ I'm a **code-slinging, data-wrangling, algorithm-loving** tech enthusiast who li
   </a>
 </p>
 
+---
 
 ## 📜 **Google Cloud Certifications**
 
