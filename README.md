@@ -36,7 +36,9 @@ I'm a **code-slinging, data-wrangling, algorithm-loving** tech enthusiast who li
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="40" height="40" title="Google Cloud"/>
+  <img <!-- src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="40" height="40" title="Google Cloud"/> -->
+
+<img src="https://www.cloudskillsboost.google/public_profiles/26b6b66c-4d3e-4afc-90b9-2453b34320a2"/>
 </p>
 
 ---
