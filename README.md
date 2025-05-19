@@ -8,7 +8,7 @@
 ---
 ## 🔥 **About Me**
 
-I'm a **code-slinging, data-wrangling, algorithm-loving** tech enthusiast who lives for the thrill of solving problems and making systems smarter. From crafting **AI models** that predict the future, to developing **web apps** that scale with ease, I bring data and code together like coffee and late-night hustle.  
+Aspiring Data Analyst passionate about transforming raw data into meaningful insights. I enjoy diving into messy datasets, identifying patterns, and turning them into clear, actionable stories. I’ve built interactive dashboards and deployed data apps, and I'm highly proficient in tools like Python, SQL, MS Excel and Power BI. With hands on project experience and a strong problem solving mindset, I’m always curious to learn and grow in the data world.
 
 ---
 
