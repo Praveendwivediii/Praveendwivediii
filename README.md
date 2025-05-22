@@ -1,5 +1,5 @@
 # 🚀 Praveen Dwivedi  
-### **Data Analyst | AI Enthusiast | Frontend Developer**  
+### **Data Analyst | Frontend Developer**  
 
 <!--<p align="center">
   <img src="https://raw.githubusercontent.com/Praveendwivediii/Praveendwivediii/5eafe7beab3f0fa80be219ed5398eb4ad1b83d39/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.gif" alt="MasterHead">
