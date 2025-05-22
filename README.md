@@ -76,10 +76,10 @@ Aspiring Data Analyst passionate about transforming raw data into meaningful ins
 
 ## 📜 **Google Cloud Certifications**
 
-- [Introduction to Generative AI](https://www.cloudskillsboost.google/)
-- [Introduction to Large Language Models](https://www.cloudskillsboost.google/)
-- [Introduction to Responsible AI](https://www.cloudskillsboost.google/)
-- [Digital Transformation with Google Cloud](https://www.cloudskillsboost.google/)
+- [Introduction to Generative AI]([https://www.cloudskillsboost.google/](https://www.cloudskillsboost.google/public_profiles/26b6b66c-4d3e-4afc-90b9-2453b34320a2/badges/6366447?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+- [Introduction to Large Language Models]([https://www.cloudskillsboost.google/](https://www.cloudskillsboost.google/public_profiles/26b6b66c-4d3e-4afc-90b9-2453b34320a2/badges/6323817)
+- [Introduction to Responsible AI]([https://www.cloudskillsboost.google/](https://www.cloudskillsboost.google/public_profiles/26b6b66c-4d3e-4afc-90b9-2453b34320a2/badges/6366447)
+- [Digital Transformation with Google Cloud]([https://www.cloudskillsboost.google/)](https://www.cloudskillsboost.google/public_profiles/26b6b66c-4d3e-4afc-90b9-2453b34320a2/badges/7261497)
 
 ---
 
