@@ -15,8 +15,8 @@ I enjoy building scalable systems, automating business logic, and transforming r
 <p align="left">
   <!-- Salesforce -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="40" title="Salesforce"/>
-  <img src="https://img.shields.io/badge/Apex-1798c1?style=for-the-badge&logo=salesforce&logoColor=white" height="28" title="Apex"/>
-  <img src="https://img.shields.io/badge/LWC-Lightning_Web_Components-blueviolet?style=for-the-badge" height="28" title="Lightning Web Components"/>
+  <!-- <img src="https://img.shields.io/badge/Apex-1798c1?style=for-the-badge&logo=salesforce&logoColor=white" height="28" title="Apex"/>
+  <img src="https://img.shields.io/badge/LWC-Lightning_Web_Components-blueviolet?style=for-the-badge" height="28" title="Lightning Web Components"/> -->
 
   <!-- Backend / Core -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
