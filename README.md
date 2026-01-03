@@ -4,8 +4,7 @@
 ---
 
 ## 👋 About Me
-I am an aspiring **Salesforce Developer** with a strong backend foundation.  
-I enjoy building scalable systems, automating business logic, and transforming raw data into meaningful insights using Salesforce and modern backend tools.
+Aspiring Salesforce Developer with a strong backend foundation, focused on scalable system design and business automation. Computer Science undergraduate with hands-on experience from an internship at Info Edge (Naukri.com), where I worked on CRM dashboards, analytics, and data driven platforms. Actively exploring the Salesforce ecosystem, including Apex triggers, automation flows, and Lightning Web Components (LWC), while strengthening problem solving skills through DSA. Enjoy building efficient, user-centric solutions and transforming raw data into meaningful insights.
 
 ---
 
@@ -64,20 +63,21 @@ I enjoy building scalable systems, automating business logic, and transforming r
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.leetcode.com/praveendwivedi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
+  <a href="https://www.leetcode.com/praveendwivedi">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+         width="40" style="display:block;" />
   </a>
-  <a href="https://linkedin.com/in/praveendwivedii" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+  <a href="https://linkedin.com/in/praveendwivedii">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         width="40" style="display:block;" />
   </a>
-  <a href="https://instagram.com/pr.a.v.een" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+   <a href="https://kaggle.com/praveendwivedii">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+         width="40" style="display:block;" />
   </a>
-  <a href="https://kaggle.com/praveendwivedii" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40"/>
-  </a>
-  <a href="https://twitter.com/prvngotnochill" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
+  <a href="https://twitter.com/prvngotnochill">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+         width="40" style="display:block;" />
   </a>
 </p>
 
@@ -86,5 +86,3 @@ I enjoy building scalable systems, automating business logic, and transforming r
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=while(true)+%7B+code%2C+learn%2C+repeat+%7D" />
 </p>
-
-**Pro Tip:** Send a meme with your message — faster replies guaranteed 😄
