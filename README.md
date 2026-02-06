@@ -1,10 +1,6 @@
 # Praveen Dwivedi
-### Salesforce Developer
-
----
-
-## 👋 About Me
-Aspiring Salesforce Developer with a strong backend foundation, focused on scalable system design and business automation. Computer Science undergraduate with hands-on experience from an internship at Info Edge (Naukri.com), where I worked on CRM dashboards, analytics, and data driven platforms. Actively exploring the Salesforce ecosystem, including Apex triggers, automation flows, and Lightning Web Components (LWC), while strengthening problem solving skills through DSA. Enjoy building efficient, user-centric solutions and transforming raw data into meaningful insights.
+## 😎 About Me
+Salesforce Developer with a strong backend foundation, focused on scalable system design and business automation. Computer Science undergraduate with hands on experience from an internship at Info Edge (Naukri.com), where I worked on CRM dashboards and data driven platforms. Actively exploring the Salesforce ecosystem, including Apex triggers, automation flows, and Lightning Web Components (LWC), while strengthening problem solving skills through DSA. Enjoy building efficient, user-centric solutions and transforming raw data into meaningful insights.
 
 ---
 
@@ -42,7 +38,7 @@ Aspiring Salesforce Developer with a strong backend foundation, focused on scala
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=praveendwivediii&show_icons=true&theme=dark" />
   <br/>
@@ -53,7 +49,7 @@ Aspiring Salesforce Developer with a strong backend foundation, focused on scala
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Goals
 - Become a **Salesforce Developer** with strong Apex & LWC expertise    
 - Master **Salesforce Security & Access Control** (Profiles, Permission Sets, Sharing Rules)   
 - Follow Salesforce **best practices** (bulkification, governor limits, clean architecture)  
